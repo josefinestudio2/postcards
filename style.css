@@ -1,0 +1,89 @@
+
+body {
+    background: black;
+    display: flex;               
+    justify-content: center;     
+    align-items: center;         
+    height: 100vh;               
+    margin: 0;             
+}
+
+.instagram {
+    background: white;
+	width: 45vw;
+	height: auto;
+	margin: auto;
+	font-family: unset;
+    
+}
+.postcard-header {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.htm5left,
+.htm5right {
+    padding:2px;
+	width: 50px;
+	height: 50px;
+    font-size: 1.6em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.htm5mid {
+    width: 150%;
+	margin: 0;
+    padding: 0;
+}
+.htm5mid h1, p{
+    width: 100%;
+	margin: 0;
+    padding: 0;
+    font-size: 1rem;
+}
+
+.postcard-body img {
+    width: 100%;     
+    padding: 0;   
+}
+img {
+    width: 100%;        
+    display: block;
+}
+
+
+.iconos {
+    padding: 3%;
+    font-size: 2.5vw;
+    display: flex;
+}
+
+.iconos .corazones {
+    display: flex;
+    gap: 9px;
+}
+
+.save {
+    margin-left: auto;
+    font-size: 2.5vw;
+    padding-left: 10px;
+}
+
+.comentarios, .des {
+    padding-left: 15px;
+    margin-top: 15px;
+    font-size: 15px;
+}
+
+
+
+  
+
+
+
+    
+
+
